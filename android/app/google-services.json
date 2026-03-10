@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "338458102155",
+    "project_id": "mobile-application-1f011",
+    "storage_bucket": "mobile-application-1f011.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338458102155:android:4ff5f68171d79274ca478e",
+        "android_client_info": {
+          "package_name": "com.Sharangi.Managemnt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8aAzpQbrPObYf6cF1rGeE2XIZJjGHFQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

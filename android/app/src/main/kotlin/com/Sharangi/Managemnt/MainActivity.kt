@@ -1,4 +1,4 @@
-package com.example.student_records
+package com.Sharangi.Managemnt
 
 import io.flutter.embedding.android.FlutterActivity
 
